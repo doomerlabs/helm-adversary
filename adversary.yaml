@@ -1,4 +1,4 @@
-name: adversarylabs/container/helm
+name: container/helm
 version: 0.0.16
 description: Reviews Helm charts for excessive RBAC, privileged defaults, mutable images, and dependency pinning.
 
